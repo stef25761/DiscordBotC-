@@ -1,0 +1,11 @@
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\bin\Debug\netcoreapp2.0\DiscordAuthBot.deps.json
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\bin\Debug\netcoreapp2.0\DiscordAuthBot.runtimeconfig.json
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\bin\Debug\netcoreapp2.0\DiscordAuthBot.runtimeconfig.dev.json
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\bin\Debug\netcoreapp2.0\DiscordAuthBot.dll
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\bin\Debug\netcoreapp2.0\DiscordAuthBot.pdb
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\obj\Debug\netcoreapp2.0\DiscordAuthBot.csproj.CoreCompileInputs.cache
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\obj\Debug\netcoreapp2.0\DiscordAuthBot.AssemblyInfoInputs.cache
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\obj\Debug\netcoreapp2.0\DiscordAuthBot.AssemblyInfo.cs
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\obj\Debug\netcoreapp2.0\DiscordAuthBot.dll
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\obj\Debug\netcoreapp2.0\DiscordAuthBot.pdb
+C:\Users\wotan\source\repos\DiscordAuthBot\DiscordAuthBot\obj\Debug\netcoreapp2.0\DiscordAuthBot.csprojAssemblyReference.cache
